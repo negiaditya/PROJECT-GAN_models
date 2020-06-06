@@ -1,2 +1,2 @@
 # PROJECTS-GAN_Autoencoders
-Some of the GAN and Autoencoders models.
+Some of the GANs and Autoencoders models.
