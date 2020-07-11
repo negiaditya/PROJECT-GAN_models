@@ -1,2 +1,2 @@
-# PROJECTS on GAN_Autoencoders
-Some of the GANs and Autoencoders models.
+# GANS
+Some of the GANs models implementation in Keras.
